@@ -1,19 +1,13 @@
-# Интеллект-карта книги «The making of a manager. What to do when everyone looks to you» Julie Zhou
-
-
+# Mind-map книги «The making of a manager. What to do when everyone looks to you» Julie Zhou
 
 * [PNG](/The%20making%20of%20a%20manager.%20What%20to%20do%20when%20everyone%20looks%20to%20you.%20Julie%20Zhou/The-making-of-a-manager.-What-to-do-when-everyone-looks-to-you-Julie-Zhou.png)
 * [SVG](/The%20making%20of%20a%20manager.%20What%20to%20do%20when%20everyone%20looks%20to%20you.%20Julie%20Zhou/The-making-of-a-manager.-What-to-do-when-everyone-looks-to-you-Julie-Zhou.svg)
 * [PDF](/The%20making%20of%20a%20manager.%20What%20to%20do%20when%20everyone%20looks%20to%20you.%20Julie%20Zhou/The-making-of-a-manager.-What-to-do-when-everyone-looks-to-you-Julie-Zhou.pdf)
 * [Xmind](/The%20making%20of%20a%20manager.%20What%20to%20do%20when%20everyone%20looks%20to%20you.%20Julie%20Zhou/The-making-of-a-manager.-What-to-do-when-everyone-looks-to-you-Julie-Zhou.xmind)
 
-![Интеллект-карта книги «The making of a manager. What to do when everyone looks to you» Julie Zhou](/The%20making%20of%20a%20manager.%20What%20to%20do%20when%20everyone%20looks%20to%20you.%20Julie%20Zhou/The-making-of-a-manager.-What-to-do-when-everyone-looks-to-you-Julie-Zhou.png)
-
-
+![Mind-map книги «The making of a manager. What to do when everyone looks to you» Julie Zhou](/The%20making%20of%20a%20manager.%20What%20to%20do%20when%20everyone%20looks%20to%20you.%20Julie%20Zhou/The-making-of-a-manager.-What-to-do-when-everyone-looks-to-you-Julie-Zhou.png)
 
 ## Руководитель — тот, кто получает результат от группы людей, работающих вместе.
-
-
 
 ## Подходит ли мне роль руководителя?
 
@@ -30,8 +24,6 @@
 
 - Могу ли я стабилизировать команду в трудных эмоциональных ситуациях?
 
-
-
 ## Руководитель vs. Лидер
 
 - Лидер — это человек, обладающий навыком влиять на людей и управлять ими.
@@ -46,8 +38,6 @@
 
 - Люди должны захотеть пойти за мной, доверять мне.
 
-
-
 ## Ключевые мысли
 
 - Знать себя самого, свои сильные, слабые стороны и слепые пятна
@@ -59,8 +49,6 @@
 - Основной инструмент для изменения поведения сотрудников – обратная связь.
 
 - Планировать развитие и состав команды заранее, чтобы правильно нанимать.
-
-
 
 ## «Новичок»
 
@@ -90,8 +78,6 @@
 
 - Надо сбалансировать обязанности руководителя с обязанностями исполнителя.
 
-
-
 ## «Пионер»
 
 - Я один из основателей компании и/или новой команды.
@@ -110,8 +96,6 @@
 
 - Надо сбалансировать обязанности руководителя с обязанностями исполнителя.
 
-
-
 ## «Новый босс»
 
 - Я пришёл в компанию, чтобы возглавить уже существующую команду.
@@ -125,8 +109,6 @@
 - Нужно выстроить отношения с коллегами и подчинёнными в новой компании.
 
 - Не знаю заранее содержания работы: что происходит внутри команды, какую именно работу она выполняет и в какой атмосфере.
-
-
 
 ## «Преемник»
 
